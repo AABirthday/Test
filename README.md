@@ -41,9 +41,11 @@ git push origin NombreRama
 ```
 ---
 # Fusionar Ramas
+Posicionarse en la rama master y ejecutar el comando
 ```
-git merge <branch-name>
+git merge NombreRama
 ```
 ---
 #Lista De Comandos 1 URL: https://www.hostinger.mx/tutoriales/comandos-de-git
+
 #Lista De Comandos 2 URL: https://bluuweb.github.io/tutorial-github/guia/fundamentos.html
