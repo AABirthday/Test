@@ -9,24 +9,24 @@ git clone https://github.com/AABirthday/...
 ```
 git add .
 ```
-# Crear Punto De Control
-```
-git commit
-```
 # Crear Punto De Control Y Agregar Un Mensaje
 ```
-git commit -m "Mensjae"
+git commit -m "Mensaje"
 ```
 # Subir Los Cambios Al Repositorio
 ```
 git push
+```
+# Traer Los Cambios Del Proyecto De Github Hacia El Proyecto Local
+```
+git pull
 ```
 ---
 # Ver Rama Actual
 ```
 git branch
 ```
-# Crear Rama o Crear Rama Y Cambiarte A Ella
+# Crear Rama / Crear Rama Y Cambiarte A Ella
 ```
 git branch NombreRama
 git checkout -b NombreRama
@@ -39,10 +39,11 @@ git checkout NombreRama
 ```
 git push origin NombreRama
 ```
-
-# Fucionar Ramas
+---
+# Fusionar Ramas
 ```
 git merge <branch-name>
 ```
 ---
-#Lista De Comandos url: https://www.hostinger.mx/tutoriales/comandos-de-git
+#Lista De Comandos 1 URL: https://www.hostinger.mx/tutoriales/comandos-de-git
+#Lista De Comandos 2 URL: https://bluuweb.github.io/tutorial-github/guia/fundamentos.html
